@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Java, Flutter, AI and Sql.
 - 🌱 I’m currently learning AI and Pyhton.
 - 🤔 I’m searching project that improve my skils.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/muhammet-halak-0338b6238/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Muhammet_Halak-blue?style=flat&logo=linkedin"></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/muhammet-halak-0338b6238/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Muhammet_Halak-blue?style=flat&logo=linkedin"></a> and halak@vuhuv.com
 - 😄 Pronouns: M
 - ⚡ Fun fact: easygoing, tamper-loving, responsible, patient
 
