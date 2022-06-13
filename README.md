@@ -1,12 +1,12 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="13px"></a>
 
 
-- 🔭 I’m currently working on Dart, Flutter, C# and MsSql.
-- 🌱 I’m currently learning Flutter and C#.
-- 🤔 I’m looking for help with looking for a job.
+- 🔭 I’m currently working on Java, Flutter, AI and Sql.
+- 🌱 I’m currently learning AI and Pyhton.
+- 🤔 I’m searching project that improve my skils.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/muhammet-halak-0338b6238/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@muhammet-halak-blue?style=flat&logo=linkedin"></a>
 - 😄 Pronouns: M
-- ⚡ Fun fact: enthusiastic, open to learning, humor, curious, determined.
+- ⚡ Fun fact: easygoing, tamper-loving, responsible, patient
 
 
 <h4 align="left">Visitor's count :eyes:</h4>
